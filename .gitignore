@@ -1,0 +1,7 @@
+*.py
+*.pyc
+*.spec
+dist/
+build/
+assets/
+__pycache__/
