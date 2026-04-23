@@ -3,7 +3,7 @@
 An unofficial Mac port of Synergy's SC2 Campaign Launcher.
 
 ## Requirements
-- macOS (Apple Silicon or Intel)
+- macOS (Apple Silicon Arm64)
 - Knowing where your Starcraft II installation folder is located
 - Your Starcraft II Folder contains a "Maps" folder and a "Mods" folder
   -  If you don't have these, you can just create new empty folders. The names **are case-sensitive** 
@@ -17,7 +17,8 @@ An unofficial Mac port of Synergy's SC2 Campaign Launcher.
 
 ## Notes
 1. Automatic launcher updates are not supported
-2. I have not tested every campaign individually
+2. Intel Mac support is untested
+3. I have not tested every campaign individually
 
 ## Credits
 Original launcher by Synergy - https://github.com/R-P-S/SC2CampaignLauncher
