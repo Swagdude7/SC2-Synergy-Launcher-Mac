@@ -15,6 +15,14 @@ An unofficial Mac port of Synergy's SC2 Campaign Launcher.
 4. When prompted, click Open to bypass Gatekeeper
 5. Point the launcher at your StarCraft II installation folder
 
+## Troubleshooting
+**"App is damaged and can't be opened"**
+1. Open Terminal
+2. Navigate to where <em>SC2CampaignLauncher.app</em> is located
+  - For example: <code>cd Downloads/</code>
+3. Run the following command: <code>xattr -cr SC2CampaignLauncher.app</code>
+4. Try running the application again
+
 ## Notes
 1. Automatic launcher updates are not supported
 2. Intel Mac support is untested
