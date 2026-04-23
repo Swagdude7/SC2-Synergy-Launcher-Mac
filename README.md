@@ -17,7 +17,7 @@ An unofficial Mac port of Synergy's SC2 Campaign Launcher.
 
 ## Notes
 1. Automatic launcher updates are not supported
-2. I have not been able to test if individual campaign updates work
+2. I have not tested every campaign individually
 
 ## Credits
 Original launcher by Synergy - https://github.com/R-P-S/SC2CampaignLauncher
