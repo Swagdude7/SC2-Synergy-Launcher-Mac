@@ -9,7 +9,7 @@ An unofficial Mac port of Synergy's SC2 Campaign Launcher.
   -  If you don't have these, you can just create new empty folders. The names **are case-sensitive** 
 
 ## Installation
-1. Download SC2CampaignLauncher-Mac.zip from the Releases page
+1. Download SC2CampaignLauncher-Mac.zip from the [Releases](https://github.com/Swagdude7/SC2-Synergy-Launcher-Mac/releases) page
 2. Unzip and move SC2CampaignLauncher.app to your Applications folder
 3. Right click the app and select Open (required on first launch)
 4. When prompted, click Open to bypass Gatekeeper
